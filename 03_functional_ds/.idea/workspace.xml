@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4186a43f-df5b-4c8c-b90b-48b583d6779a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1r6UQfxpkyHBDOzpBz0H0m1U82e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fpinscala.datastructures.Main" />
+      <module name="03_functional_ds" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpinscala.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="03_functional_ds" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="03_functional_ds" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root-03_functional_ds [file:/Users/nf/learn/func_programming_scala/03_functional_ds/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="03_functional_ds-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3236592036256" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2432489153" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2513440544" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4186a43f-df5b-4c8c-b90b-48b583d6779a" name="Default Changelist" comment="" />
+      <created>1618296018116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618296018116</updated>
+      <workItem from="1618296019757" duration="1644000" />
+      <workItem from="1618298077097" duration="7000" />
+      <workItem from="1618298100128" duration="23000" />
+      <workItem from="1618298136117" duration="746000" />
+      <workItem from="1618298911476" duration="698000" />
+      <workItem from="1618299739586" duration="8107000" />
+      <workItem from="1618472597154" duration="10285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="214" key="GridCell.Tab.0.bottom" timestamp="1618504735947">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="214" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1618504735947" />
+    <state width="1358" height="214" key="GridCell.Tab.0.center" timestamp="1618504735946">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="214" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1618504735946" />
+    <state width="1358" height="214" key="GridCell.Tab.0.left" timestamp="1618504735946">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="214" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1618504735946" />
+    <state width="1358" height="214" key="GridCell.Tab.0.right" timestamp="1618504735947">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="214" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1618504735947" />
+    <state width="1358" height="266" key="GridCell.Tab.1.bottom" timestamp="1618474972807">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1618474972807" />
+    <state width="1358" height="266" key="GridCell.Tab.1.center" timestamp="1618474972806">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1618474972806" />
+    <state width="1358" height="266" key="GridCell.Tab.1.left" timestamp="1618474972806">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1618474972806" />
+    <state width="1358" height="266" key="GridCell.Tab.1.right" timestamp="1618474972806">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1358" height="266" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1618474972806" />
+    <state x="389" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1618472600216">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="389" y="271" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1618472600216" />
+    <state x="377" y="204" width="670" height="676" key="search.everywhere.popup" timestamp="1618298297029">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="377" y="204" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1618298297029" />
+  </component>
+</project>
